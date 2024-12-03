@@ -1,6 +1,6 @@
 # CustomIdentityAuth
 
-A .NET 8 project that customizes authentication processes using ASP.NET Identity, providing features like JWT, refresh tokens, and role management for flexible and secure identity management.
+A .NET 8 project that customizes authentication processes using ASP.NET Identity, providing features like JWT, refresh tokens, and role management for flexible and secure identity management. This project focuses on researching and implementing best practices to ensure robust and maintainable solutions.
 
 ## Features
 
